@@ -23,7 +23,7 @@ Precision: 100% | Recall: 100% | F1: 1.0
 Python | pandas | numpy | scipy | matplotlib
 
 ## Dashboard
-![Dashboard](NEET_Summary_Dashboard.png)
+![Dashboard](NEET_Summary_Dashboard(1).png)
 
 ---
 
